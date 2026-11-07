@@ -27,3 +27,8 @@ This repository is for education and defensive research. Test only systems you o
 ## License
 
 MIT
+
+## Author
+
+**George Botrs Azer**
+Junior SOC Analyst | SIEM, Log Analysis, Threat Detection
